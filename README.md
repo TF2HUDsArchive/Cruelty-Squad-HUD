@@ -1,2 +1,0 @@
-# Cruelty Squad HUD
-
